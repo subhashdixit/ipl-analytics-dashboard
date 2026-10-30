@@ -4,6 +4,8 @@
 
 An interactive, static dashboard covering **816 IPL matches from 2008–2020**. Explore seasons, teams, venues, batting and bowling performance, then export the selected player summary. This upgrades the original analysis notebook into a reproducible browser application.
 
+![Deployed application](docs/images/application.png)
+
 ## What you can do
 
 1. Choose a season or all seasons, and optionally a team.
