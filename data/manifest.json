@@ -1,0 +1,16 @@
+{
+  "source": "https://cricsheet.org/downloads/ipl_json.zip",
+  "source_sha256": "5757e04287179767ff8495f02902bd13812b9572ec8fa2ac1347ec2e9c6d4709",
+  "license": "Open Data Commons Attribution License 1.0 (ODC-By)",
+  "attribution": "Data from Cricsheet, transformed and aggregated by Subhash Dixit.",
+  "scope": "Available IPL matches with calendar years 2008 through 2020; regulation innings statistics",
+  "archive_json_files": 1243,
+  "selected_matches": 816,
+  "data_versions": [
+    "1.2.0"
+  ],
+  "first_date": "2008-04-18",
+  "last_date": "2020-11-10",
+  "deliveries": 193468,
+  "super_over_innings_excluded": 28
+}
