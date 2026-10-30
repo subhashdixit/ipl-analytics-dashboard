@@ -1,5 +1,7 @@
 # IPL Analytics Dashboard
 
+**Live application:** [Open Ipl Analytics Dashboard](https://subhashdixit.github.io/ipl-analytics-dashboard/) · [Source code](https://github.com/subhashdixit/ipl-analytics-dashboard)
+
 An interactive, static dashboard covering **816 IPL matches from 2008–2020**. Explore seasons, teams, venues, batting and bowling performance, then export the selected player summary. This upgrades the original analysis notebook into a reproducible browser application.
 
 ## What you can do
