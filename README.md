@@ -120,3 +120,7 @@ GitHub is the source-code host; Pages is the static website host. A deployment c
 **Versioning and rollback:** each Git commit versions data and code together. Tag a known-good revision. Revert a bad change in a PR and let the same workflow publish the restored content. A repository rename changes the project Pages URL, so update README/homepage links afterwards. Pages and client caches may take a short time to refresh. Keep source and data notices in the deployed artifact.
 
 The app is historical and has no live ingestion schedule. To update it, explicitly review new source coverage, change the data preparation/transcription, run the checks, and publish a new version. No paid service or secret is required for this public static deployment. Read [GitHub Pages documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages) for current service limits.
+
+## Exact local dependency versions
+
+The maintained HTML/JavaScript app needs no third-party Python packages. Python helpers use the standard library. Use the existing browser/Node instructions below; no Python dependency installation is required.
